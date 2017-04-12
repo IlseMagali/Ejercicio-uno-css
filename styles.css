@@ -1,0 +1,12 @@
+div {
+ color: white;
+ background-color: purple;
+ margin:120px 60px 30.5px 60px;
+ padding:40px 20px 70px 100px;
+ border-left-width: 10px;
+ border-right-width: 30px;
+ border-top-width: 40px;
+ border-bottom-width: 20px;
+ border-style: dashed;
+ border-color: black;
+}
